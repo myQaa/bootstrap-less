@@ -1,17 +1,17 @@
 {
-  "name": "bootstrap-less",
+  "name": "bootstrap-less-myqaa",
   "version": "3.3.9",
-  "description": "less files for bootstrap",
+  "description": "Fork of bootstrap-less with custom modifications",
   "keywords": [
     "bootstrap",
     "less"
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:distros/bootstrap-less.git"
+    "url": "git@github.com:myQaa/bootstrap-less.git"
   },
   "bugs": {
-    "url": "https://github.com/distros/bootstrap-less/issues"
+    "url": "https://github.com/myQaa/bootstrap-less/issues"
   },
   "main": "js/bootstrap",
   "format": "global",
